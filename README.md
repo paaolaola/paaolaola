@@ -41,7 +41,7 @@
 
 ![text11](https://github.com/paaolaola/paaolaola/assets/134562846/c40b92e8-c62a-4c1d-9709-3af550648c9d)
 <br>
-<a cursor="pointer" href="paolagonzalez.contacto@gmail.com">
+<a cursor="pointer" href="mailto:paolagonzalez.contacto@gmail.com">
        ![text14](https://github.com/paaolaola/paaolaola/assets/134562846/d986a456-dc7a-4450-a688-a4b64fb527c2)
       </a>
 
