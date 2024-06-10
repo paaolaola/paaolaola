@@ -1,16 +1,18 @@
 ![header1](https://github.com/paaolaola/paaolaola/assets/134562846/545db639-8713-4394-be4d-922062d8b358)
 
-![text6](https://github.com/paaolaola/paaolaola/assets/134562846/cd328731-f9df-49b9-933a-37b74c6eefa5)
 
+![Sin título-1](https://github.com/paaolaola/paaolaola/assets/134562846/491a7094-dc6a-410f-9436-45da47bf6bba)
 
 ![text9](https://github.com/paaolaola/paaolaola/assets/134562846/a631411b-6317-4f46-be56-3c67698101d6)
 
-![text7](https://github.com/paaolaola/paaolaola/assets/134562846/26096a0f-fc73-4d5a-83a1-982bdf42021c)
 
+![Sin título-2](https://github.com/paaolaola/paaolaola/assets/134562846/2693db5c-2cb2-43df-b21f-6b5bfe7c2024)
 
 ![stack copia](https://github.com/paaolaola/paaolaola/assets/134562846/a8ad8da8-a19e-4323-a06f-03d7b667911d)
 
-![text8](https://github.com/paaolaola/paaolaola/assets/134562846/533f9823-bfc3-4ea0-9e25-4fd4fee29bf1)
+
+
+![Sin título-3](https://github.com/paaolaola/paaolaola/assets/134562846/ab12b759-9238-439d-826e-e2453be9a5e2)
 
 <div align="center">
 
