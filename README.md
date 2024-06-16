@@ -2,7 +2,7 @@
 <div>
 <div align="center">
       
-![sobremi](https://github.com/paaolaola/paaolaola/assets/134562846/cbbcfb4e-978b-4c84-9353-86987ef89803)
+![sobremi](https://github.com/paaolaola/paaolaola/assets/134562846/56f458e7-5817-4611-82f4-7a703f6083e4)
 </div>
 <div align="center">
       
