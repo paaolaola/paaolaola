@@ -1,9 +1,6 @@
-![header1](https://github.com/paaolaola/paaolaola/assets/134562846/545db639-8713-4394-be4d-922062d8b358)
+![sobremi1](https://github.com/paaolaola/paaolaola/assets/134562846/02328823-983e-4239-8f27-2d1d2ccfea87)
+
 <div>
-<div align="center">
-      
-![sobremi](https://github.com/paaolaola/paaolaola/assets/134562846/56f458e7-5817-4611-82f4-7a703f6083e4)
-</div>
 <div align="center">
       
 ![skills](https://github.com/paaolaola/paaolaola/assets/134562846/277b6313-8380-447a-9139-1c36228ffdcb)
