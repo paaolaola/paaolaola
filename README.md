@@ -1,15 +1,15 @@
-![sobremi1](https://github.com/paaolaola/paaolaola/assets/134562846/02328823-983e-4239-8f27-2d1d2ccfea87)
+## 🙋🏻‍♀️ Sobre mí
+Soy Desarrolladora Frontend con experiencia en HTML, CSS, JavaScript y especialización en React. He trabajado en proyectos donde me he enfocado en crear interfaces de usuario atractivas y funcionales. Disfruto colaborando en equipos multidisciplinarios y tengo conocimientos de metodologías ágiles como Scrum y Kanban para optimizar el desarrollo. Creo firmemente en los principios del código limpio y eficiente. En mi tiempo libre, me dedico a aprender nuevas tecnologías para seguir mejorando mis habilidades.
 
-<div>
-<div align="center">
-      
-![skills](https://github.com/paaolaola/paaolaola/assets/134562846/277b6313-8380-447a-9139-1c36228ffdcb)
-</div>
+Mi objetivo es aportar valor a cada proyecto en el que participo y seguir creciendo como profesional.
 
-<div align="center">
-      
-![contacto](https://github.com/paaolaola/paaolaola/assets/134562846/4ffa917f-738f-4ba9-aecc-67b90c3c15cd)
-</div>
+## ⚙️ Skills
+![skills copia](https://github.com/user-attachments/assets/a122329d-345c-4fad-9da4-63c6546dac44)
+
+
+## 📮 Contacto
+Si estás interesado(a) en colaborar o si tienes preguntas, comentarios o simplemente quieres saludar, puedes escribirme al correo linkeado aquí más abajo y con gusto te responderé.
+También te invito a conocerme y que revises mi portfolio y currículum.
 
 
 ## 
