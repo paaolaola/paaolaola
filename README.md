@@ -1,10 +1,14 @@
+
+![header1](https://github.com/user-attachments/assets/a8f1837f-0820-4bdc-9d5d-91ce338d5c4b)
+
 ## 🙋🏻‍♀️ Sobre mí
 Soy Desarrolladora Frontend con experiencia en HTML, CSS, JavaScript y especialización en React. He trabajado en proyectos donde me he enfocado en crear interfaces de usuario atractivas y funcionales. Disfruto colaborando en equipos multidisciplinarios y tengo conocimientos de metodologías ágiles como Scrum y Kanban para optimizar el desarrollo. Creo firmemente en los principios del código limpio y eficiente. En mi tiempo libre, me dedico a aprender nuevas tecnologías para seguir mejorando mis habilidades.
 
 Mi objetivo es aportar valor a cada proyecto en el que participo y seguir creciendo como profesional.
 
 ## ⚙️ Skills
-![skills copia](https://github.com/user-attachments/assets/a122329d-345c-4fad-9da4-63c6546dac44)
+
+![skills original](https://github.com/user-attachments/assets/14189144-031c-4241-98b3-27a661750dcc)
 
 
 ## 📮 Contacto
